@@ -1,5 +1,5 @@
 
--  I’m a python language enthusiast ..
+-  I’m really interested on python developments ..
 - Looking to collaborate on ...Open Source Projects and Hackathons
 
 
